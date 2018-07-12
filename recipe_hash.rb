@@ -65,7 +65,9 @@ def ingredients(perfect_10_recipe)
 end 
 end 
 
-# 
+# def ingredients(perfect_10_recipe
+# perfect_10_recipe.each_key { |key| puts key } 
+# end 
 
 puts ingredients(perfect_10_recipe)
     
