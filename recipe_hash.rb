@@ -75,7 +75,7 @@ def amounts(perfect_10_recipe)
 end 
 end 
 
-puts amount(perfect_10_recipe)
+puts amounts(perfect_10_recipe)
 
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
 
