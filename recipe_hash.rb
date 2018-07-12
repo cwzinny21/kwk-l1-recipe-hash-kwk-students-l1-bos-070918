@@ -42,7 +42,7 @@ perfect_10_recipe = {
     perfect_10_recipe[:mini_dark_chocolate_chips]
  end 
  
- puts amount_of_chocolate_chips(perfect_10_recipe)
+ puts amount_of_chocolate_chips
   
 # end
 
