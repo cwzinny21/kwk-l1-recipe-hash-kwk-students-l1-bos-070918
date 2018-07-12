@@ -52,8 +52,8 @@ perfect_10_recipe = {
 end 
 
 #4: Now use `puts` to print out just the ingredients without the amounts. You'll want to use the `each_key` method.
-d
-ef ingredients(perfect_10_recipe)
+
+def ingredients(perfect_10_recipe)
   perfect_10_recipe.each do |ingredient, amount|
     puts ingredient
 end 
